@@ -1,6 +1,7 @@
 
 #### General rules for posting
 
+- Issue tracking systems can be seen as **alternatives to mailing lists** (see this [**post**](https://github.com/robotology/QA/issues/118)).
 - All **issues are public**, but to post a new issue you need a github account (free).
 - To be able to assign **labels** to questions, ask teachers to become a **collaborator**.
 - Post here your **question** and mark it with a **suitable label**. Then, mention the teacher who you deem can help you.
