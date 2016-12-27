@@ -9,4 +9,4 @@
 - **Francesca Odone**
 - **Lorenzo Rosasco**
 
-### [Home Page](./README.md)
+### [Main Page](./README.md)
