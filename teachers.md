@@ -9,4 +9,6 @@
 - **Francesca Odone**
 - **Lorenzo Rosasco**
 
+Visit the [**Team of Teachers**](https://github.com/orgs/vvv-school/teams/vvv17-students) :old_man:
+
 ### [Main Page](./README.md)
