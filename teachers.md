@@ -6,6 +6,10 @@
 - **Francesco Nori** [@iron76](https://github.com/iron76)
 - **Chiara Bartolozzi** [@ChiaraBartolozzi](https://github.com/ChiaraBartolozzi)
 - **Daniele Pucci** [@DanielePucci](https://github.com/DanielePucci)
+- **Arren Glover** [@arrenglover](https://github.com/arrenglover)
+- **Silvio Traversaro** [@traversaro](https://github.com/traversaro)
+- **Francesco Romano** [@francesco-romano](https://github.com/francesco-romano)
+- **Giulia Pasquale** [@GiuliaP](https://github.com/GiuliaP)
 - **Francesca Odone**
 - **Lorenzo Rosasco**
 
