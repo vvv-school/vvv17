@@ -4,6 +4,7 @@
 - 📚 [**Wiki**](https://github.com/vvv-school/vvv17/wiki) _instructions, assignments, material_
 - ✉️ [**Post to mailing list**](mailto:vvv17@icub.iit.it)
 - 👋 [**Q&A**](https://github.com/vvv-school/vvv17/issues/1) _an [advantageous alternative](https://github.com/robotology/QA/issues/118) to mailing list_
+- :no_mouth: [**Chat**](https://gitter.im/vvv-school/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 - 👴 [**Teachers**](./teachers.md)
 - 🙋 [**Students**](./students.md)
 - 🎓 [**Gradebook**](./gradebook.md)
