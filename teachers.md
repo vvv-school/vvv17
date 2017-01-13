@@ -5,6 +5,7 @@
 - **Vadim Tikhanoff** [@vtikha](https://github.com/vtikha)
 - **Francesco Nori** [@iron76](https://github.com/iron76)
 - **Chiara Bartolozzi** [@ChiaraBartolozzi](https://github.com/ChiaraBartolozzi)
+- **Ali Paikan** [@apaikan](https://github.com/apaikan)
 - **Daniele Pucci** [@DanielePucci](https://github.com/DanielePucci)
 - **Arren Glover** [@arrenglover](https://github.com/arrenglover)
 - **Silvio Traversaro** [@traversaro](https://github.com/traversaro)
