@@ -4,5 +4,6 @@
 - **Gian Maria Marconi** [@gmmarconi](https://github.com/gmmarconi)
 - **Massimiliano Iacono** [@Iaxama](https://github.com/Iaxama)
 - **Phuong Dong Hai Nguyen** [@towardthesea](https://github.com/towardthesea)
+- **Fabian Paus** [@fabian-paus](https://github.com/fabian-paus)
 
 ### [Main Page](./README.md)
