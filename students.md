@@ -6,5 +6,6 @@
 - **Phuong Dong Hai Nguyen** [@towardthesea](https://github.com/towardthesea)
 - **Fabian Paus** [@fabian-paus](https://github.com/fabian-paus)
 - **Bence Magyar** [@bmagyar](https://github.com/bmagyar)
+- **Nuno Duarte** [@NunoDuarte](https://github.com/NunoDuarte)
 
 ### [Main Page](./README.md)
