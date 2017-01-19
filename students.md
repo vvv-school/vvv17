@@ -5,6 +5,6 @@
 - **Massimiliano Iacono** [@Iaxama](https://github.com/Iaxama)
 - **Phuong Dong Hai Nguyen** [@towardthesea](https://github.com/towardthesea)
 - **Fabian Paus** [@fabian-paus](https://github.com/fabian-paus)
-- **Bence Magyar* [@bmagyar](https://github.com/bmagyar)
+- **Bence Magyar** [@bmagyar](https://github.com/bmagyar)
 
 ### [Main Page](./README.md)
