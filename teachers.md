@@ -11,6 +11,7 @@
 - **Silvio Traversaro** [@traversaro](https://github.com/traversaro)
 - **Francesco Romano** [@francesco-romano](https://github.com/francesco-romano)
 - **Giulia Pasquale** [@GiuliaP](https://github.com/GiuliaP)
+- **Raffaello Camoriano** [@Ommac](https://github.com/Ommac)
 - **Francesca Odone**
 - **Lorenzo Rosasco**
 
