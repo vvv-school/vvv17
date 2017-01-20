@@ -9,5 +9,6 @@
 - **Nuno Duarte** [@NunoDuarte](https://github.com/NunoDuarte)
 - **Ingo Keller** [@BrutusTT](https://github.com/BrutusTT)
 - **Pedro Vicente** [@vicentepedro](https://github.com/vicentepedro): [**introduction**](./students-introduction/vicentepedro.pdf)
+- **Jean-Baptiste Weibel** [@jibweb](https://github.com/jibweb)
 
 ### [Main Page](./README.md)
