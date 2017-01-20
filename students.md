@@ -8,5 +8,6 @@
 - **Bence Magyar** [@bmagyar](https://github.com/bmagyar)
 - **Nuno Duarte** [@NunoDuarte](https://github.com/NunoDuarte)
 - **Ingo Keller** [@BrutusTT](https://github.com/BrutusTT)
+- **Pedro Vicente** [@vicentepedro](https://github.com/vicentepedro)
 
 ### [Main Page](./README.md)
