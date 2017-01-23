@@ -3,7 +3,7 @@
 - **Elisa Maiettini** [@Arya07](https://github.com/Arya07)
 - **Gian Maria Marconi** [@gmmarconi](https://github.com/gmmarconi)
 - **Massimiliano Iacono** [@Iaxama](https://github.com/Iaxama)
-- **Phuong Dong Hai Nguyen** [@towardthesea](https://github.com/towardthesea)
+- **Phuong Dong Hai Nguyen** [@towardthesea](https://github.com/towardthesea): [**introduction**](./students-introduction/towardthesea.pdf)
 - **Fabian Paus** [@fabian-paus](https://github.com/fabian-paus): [**introduction**](./students-introduction/fabian-paus.pdf)
 - **Bence Magyar** [@bmagyar](https://github.com/bmagyar)
 - **Nuno Duarte** [@NunoDuarte](https://github.com/NunoDuarte)
