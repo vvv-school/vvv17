@@ -4,7 +4,7 @@
 - **Gian Maria Marconi** [@gmmarconi](https://github.com/gmmarconi)
 - **Massimiliano Iacono** [@Iaxama](https://github.com/Iaxama)
 - **Phuong Dong Hai Nguyen** [@towardthesea](https://github.com/towardthesea)
-- **Fabian Paus** [@fabian-paus](https://github.com/fabian-paus)
+- **Fabian Paus** [@fabian-paus](https://github.com/fabian-paus): [**introduction**](./students-introduction/fabian-paus.pdf)
 - **Bence Magyar** [@bmagyar](https://github.com/bmagyar)
 - **Nuno Duarte** [@NunoDuarte](https://github.com/NunoDuarte)
 - **Ingo Keller** [@BrutusTT](https://github.com/BrutusTT)
