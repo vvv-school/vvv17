@@ -11,5 +11,6 @@
 - **Pedro Vicente** [@vicentepedro](https://github.com/vicentepedro) – [**introduction**](./students-introduction/vicentepedro.pdf)
 - **Jean-Baptiste Weibel** [@jibweb](https://github.com/jibweb)
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
+- **Svenja Stark** [@svestark](https://github.com/svestark)
 
 ### [Main Page](./README.md)
