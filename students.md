@@ -10,5 +10,6 @@
 - **Ingo Keller** [@BrutusTT](https://github.com/BrutusTT)
 - **Pedro Vicente** [@vicentepedro](https://github.com/vicentepedro) – [**introduction**](./students-introduction/vicentepedro.pdf)
 - **Jean-Baptiste Weibel** [@jibweb](https://github.com/jibweb)
+- **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
 
 ### [Main Page](./README.md)
