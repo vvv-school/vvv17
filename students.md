@@ -12,5 +12,6 @@
 - **Jean-Baptiste Weibel** [@jibweb](https://github.com/jibweb)
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
 - **Svenja Stark** [@svestark](https://github.com/svestark)
+- **Nolwenn Briquet-Kerestedjian** [@nolbriker](https://github.com/nolbriker)– [**introduction**](./students-introduction/nolbriker.pdf)
 
 ### [Main Page](./README.md)
