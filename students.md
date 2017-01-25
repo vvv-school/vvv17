@@ -15,5 +15,6 @@
 - **Nolwenn Briquet-Kerestedjian** [@nolbriker](https://github.com/nolbriker)– [**introduction**](./students-introduction/nolbriker.pdf)
 - **Bruno Filipe Ferreira de Brito** [@ipa-bfb](https://github.com/ipa-bfb)
 - **Baris Serhan** [@BarisSerhan](https://github.com/BarisSerhan)– [**introduction**](./students-introduction/BarisSerhan.pdf)
+- **Alessandra Rossi** [@alexarossi](https://github.com/alexarossi)
 
 ### [Main Page](./README.md)
