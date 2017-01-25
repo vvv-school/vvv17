@@ -13,5 +13,6 @@
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
 - **Svenja Stark** [@svestark](https://github.com/svestark)
 - **Nolwenn Briquet-Kerestedjian** [@nolbriker](https://github.com/nolbriker)– [**introduction**](./students-introduction/nolbriker.pdf)
+- **Bruno Filipe Ferreira de Brito** [@ipa-bfb](https://github.com/ipa-bfb)
 
 ### [Main Page](./README.md)
