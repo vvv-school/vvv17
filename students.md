@@ -1,7 +1,7 @@
 # Students
 
-- **Elisa Maiettini** [@Arya07](https://github.com/Arya07)
-- **Gian Maria Marconi** [@gmmarconi](https://github.com/gmmarconi)
+- **Elisa Maiettini** [@Arya07](https://github.com/Arya07) – [**introduction**](./students-introduction/Arya07.pdf)
+- **Gian Maria Marconi** [@gmmarconi](https://github.com/gmmarconi) – [**introduction**](./students-introduction/gmmarconi.pdf)
 - **Massimiliano Iacono** [@Iaxama](https://github.com/Iaxama)
 - **Phuong Dong Hai Nguyen** [@towardthesea](https://github.com/towardthesea) – [**introduction**](./students-introduction/towardthesea.pdf)
 - **Fabian Paus** [@fabian-paus](https://github.com/fabian-paus) – [**introduction**](./students-introduction/fabian-paus.pdf)
