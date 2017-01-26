@@ -12,7 +12,7 @@
 - **Fabian Paus** [@fabian-paus](https://github.com/fabian-paus) – [**introduction**](./students-introduction/fabian-paus.pdf)
 - **Gian Maria Marconi** [@gmmarconi](https://github.com/gmmarconi) – [**introduction**](./students-introduction/gmmarconi.pdf)
 - **Ingo Keller** [@BrutusTT](https://github.com/BrutusTT)
-- **Jean-Baptiste Weibel** [@jibweb](https://github.com/jibweb)
+- **Jean-Baptiste Weibel** [@jibweb](https://github.com/jibweb) – [**introduction**](./students-introduction/jibweb.pdf)
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
 - **Massimiliano Iacono** [@Iaxama](https://github.com/Iaxama) – [**introduction**](./students-introduction/Iaxama.pdf)
 - **Nolwenn Briquet-Kerestedjian** [@nolbriker](https://github.com/nolbriker) – [**introduction**](./students-introduction/nolbriker.pdf)
