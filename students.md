@@ -18,5 +18,6 @@
 - **Alessandra Rossi** [@alexarossi](https://github.com/alexarossi)
 - **Adrien Malaisé** [@amalaise](https://github.com/amalaise)– [**introduction**](./students-introduction/amalaise.pdf)
 - **Ana Tanevska** [@anatanevska](https://github.com/anatanevska)
+- **David Busson** [@Dabuss](https://github.com/Dabuss)– [**introduction**](./students-introduction/Dabuss.pdf)
 
 ### [Main Page](./README.md)
