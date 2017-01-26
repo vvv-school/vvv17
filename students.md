@@ -11,7 +11,7 @@
 - **Pedro Vicente** [@vicentepedro](https://github.com/vicentepedro) – [**introduction**](./students-introduction/vicentepedro.pdf)
 - **Jean-Baptiste Weibel** [@jibweb](https://github.com/jibweb)
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
-- **Svenja Stark** [@svestark](https://github.com/svestark)
+- **Svenja Stark** [@svestark](https://github.com/svestark) – [**introduction**](./students-introduction/svestark.pdf)
 - **Nolwenn Briquet-Kerestedjian** [@nolbriker](https://github.com/nolbriker) – [**introduction**](./students-introduction/nolbriker.pdf)
 - **Bruno Filipe Ferreira de Brito** [@ipa-bfb](https://github.com/ipa-bfb)
 - **Baris Serhan** [@BarisSerhan](https://github.com/BarisSerhan) – [**introduction**](./students-introduction/BarisSerhan.pdf)
