@@ -17,5 +17,6 @@
 - **Baris Serhan** [@BarisSerhan](https://github.com/BarisSerhan)– [**introduction**](./students-introduction/BarisSerhan.pdf)
 - **Alessandra Rossi** [@alexarossi](https://github.com/alexarossi)
 - **Adrien Malaisé** [@amalaise](https://github.com/amalaise)– [**introduction**](./students-introduction/amalaise.pdf)
+- **Ana Tanevska** [@anatanevska](https://github.com/anatanevska)
 
 ### [Main Page](./README.md)
