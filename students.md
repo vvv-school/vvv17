@@ -16,5 +16,6 @@
 - **Bruno Filipe Ferreira de Brito** [@ipa-bfb](https://github.com/ipa-bfb)
 - **Baris Serhan** [@BarisSerhan](https://github.com/BarisSerhan)– [**introduction**](./students-introduction/BarisSerhan.pdf)
 - **Alessandra Rossi** [@alexarossi](https://github.com/alexarossi)
+- **Adrien Malaisé** [@amalaise](https://github.com/amalaise)– [**introduction**](./students-introduction/amalaise.pdf)
 
 ### [Main Page](./README.md)
