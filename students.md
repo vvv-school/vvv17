@@ -15,6 +15,7 @@
 - [**Jean-Baptiste Weibel**](./students-introduction/jibweb.pdf) [@jibweb](https://github.com/jibweb)
 - [**Lawrence Chen Tai Pang**](./students-introduction/LawrenceChen-i2r.pdf) [@LawrenceChen-i2r](https://github.com/LawrenceChen-i2r)
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
+- **Marie Charbonneau** [@pi-q](https://github.com/pi-q)
 - [**Massimiliano Iacono**](./students-introduction/Iaxama.pdf) [@Iaxama](https://github.com/Iaxama)
 - [**Nolwenn Briquet-Kerestedjian**](./students-introduction/nolbriker.pdf) [@nolbriker](https://github.com/nolbriker)
 - **Nuno Duarte** [@NunoDuarte](https://github.com/NunoDuarte)
