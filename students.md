@@ -13,6 +13,7 @@
 - [**Gian Maria Marconi**](./students-introduction/gmmarconi.pdf) [@gmmarconi](https://github.com/gmmarconi)
 - **Ingo Keller** [@BrutusTT](https://github.com/BrutusTT)
 - [**Jean-Baptiste Weibel**](./students-introduction/jibweb.pdf) [@jibweb](https://github.com/jibweb)
+- [**Joris Guérin**](./students-introduction/jorisguerin.pdf) [@jorisguerin](https://github.com/jorisguerin)
 - [**Lawrence Chen Tai Pang**](./students-introduction/LawrenceChen-i2r.pdf) [@LawrenceChen-i2r](https://github.com/LawrenceChen-i2r)
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
 - **Marie Charbonneau** [@pi-q](https://github.com/pi-q)
