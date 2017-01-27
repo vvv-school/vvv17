@@ -8,6 +8,7 @@
 - [**Baris Serhan**](./students-introduction/BarisSerhan.pdf) [@BarisSerhan](https://github.com/BarisSerhan)
 - **Bence Magyar** [@bmagyar](https://github.com/bmagyar)
 - **Bruno Filipe Ferreira de Brito** [@ipa-bfb](https://github.com/ipa-bfb)
+- **Damiano Malafronte** [@damianomal](https://github.com/damianomal)
 - [**David Busson**](./students-introduction/Dabuss.pdf) [@Dabuss](https://github.com/Dabuss)
 - **Egor Lakomkin** [@EgorLakomkin](https://github.com/EgorLakomkin)
 - [**Elisa Maiettini**](./students-introduction/Arya07.pdf) [@Arya07](https://github.com/Arya07)
