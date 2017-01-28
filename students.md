@@ -11,7 +11,7 @@
 - [**Chandrakant Bothe**](./students-introduction/crbothe.pdf) [@crbothe](https://github.com/crbothe)
 - [**Damiano Malafronte**](./students-introduction/damianomal.pdf) [@damianomal](https://github.com/damianomal)
 - [**David Busson**](./students-introduction/Dabuss.pdf) [@Dabuss](https://github.com/Dabuss)
-- **Egor Lakomkin** [@EgorLakomkin](https://github.com/EgorLakomkin)
+- [**Egor Lakomkin**](./students-introduction/EgorLakomkin.pdf) [@EgorLakomkin](https://github.com/EgorLakomkin)
 - [**Elisa Maiettini**](./students-introduction/Arya07.pdf) [@Arya07](https://github.com/Arya07)
 - [**Fabian Paus**](./students-introduction/fabian-paus.pdf) [@fabian-paus](https://github.com/fabian-paus)
 - [**Gian Maria Marconi**](./students-introduction/gmmarconi.pdf) [@gmmarconi](https://github.com/gmmarconi)
