@@ -21,7 +21,7 @@
 - **Kyveli Kompatsiari** [@kompky](https://github.com/kompky)
 - [**Lawrence Chen Tai Pang**](./students-introduction/LawrenceChen-i2r.pdf) [@LawrenceChen-i2r](https://github.com/LawrenceChen-i2r)
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
-- **Marie Charbonneau** [@pi-q](https://github.com/pi-q)
+- [**Marie Charbonneau**](./students-introduction/pi-q.pdf) [@pi-q](https://github.com/pi-q)
 - [**Massimiliano Iacono**](./students-introduction/Iaxama.pdf) [@Iaxama](https://github.com/Iaxama)
 - [**Nolwenn Briquet-Kerestedjian**](./students-introduction/nolbriker.pdf) [@nolbriker](https://github.com/nolbriker)
 - [**Nuno Duarte**](./students-introduction/NunoDuarte.pdf) [@NunoDuarte](https://github.com/NunoDuarte)
