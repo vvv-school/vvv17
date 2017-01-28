@@ -23,6 +23,7 @@
 - **Lukas Kaul** [@LuSeKa](https://github.com/LuSeKa)
 - [**Marie Charbonneau**](./students-introduction/pi-q.pdf) [@pi-q](https://github.com/pi-q)
 - [**Massimiliano Iacono**](./students-introduction/Iaxama.pdf) [@Iaxama](https://github.com/Iaxama)
+- [**Mohammad Ali Zamani**](./students-introduction/mazzamani.pdf) [@mazzamani](https://github.com/mazzamani)
 - [**Nolwenn Briquet-Kerestedjian**](./students-introduction/nolbriker.pdf) [@nolbriker](https://github.com/nolbriker)
 - [**Nuno Duarte**](./students-introduction/NunoDuarte.pdf) [@NunoDuarte](https://github.com/NunoDuarte)
 - [**Pedro Vicente**](./students-introduction/vicentepedro.pdf) [@vicentepedro](https://github.com/vicentepedro)
