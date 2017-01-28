@@ -24,7 +24,7 @@
 - **Marie Charbonneau** [@pi-q](https://github.com/pi-q)
 - [**Massimiliano Iacono**](./students-introduction/Iaxama.pdf) [@Iaxama](https://github.com/Iaxama)
 - [**Nolwenn Briquet-Kerestedjian**](./students-introduction/nolbriker.pdf) [@nolbriker](https://github.com/nolbriker)
-- **Nuno Duarte** [@NunoDuarte](https://github.com/NunoDuarte)
+- [**Nuno Duarte**](./students-introduction/NunoDuarte.pdf) [@NunoDuarte](https://github.com/NunoDuarte)
 - [**Pedro Vicente**](./students-introduction/vicentepedro.pdf) [@vicentepedro](https://github.com/vicentepedro)
 - [**Phuong Dong Hai Nguyen**](./students-introduction/towardthesea.pdf) [@towardthesea](https://github.com/towardthesea)
 - [**Svenja Stark**](./students-introduction/svestark.pdf) [@svestark](https://github.com/svestark)
