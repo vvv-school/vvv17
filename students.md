@@ -1,7 +1,7 @@
 # Students
 
 - [**Adrien Malaisé**](./students-introduction/amalaise.pdf) [@amalaise](https://github.com/amalaise)
-- **Alessandra Rossi** [@alexarossi](https://github.com/alexarossi)
+- [**Alessandra Rossi**](./students-introduction/alexarossi.pdf) [@alexarossi](https://github.com/alexarossi)
 - [**Alexandre Antunes**](./students-introduction/AlexAntn.pdf) [@AlexAntn](https://github.com/AlexAntn)
 - [**Alexis Billier**](./students-introduction/AlexisBillier.pdf) [@AlexisBillier](https://github.com/AlexisBillier)
 - [**Ana Tanevska**](./students-introduction/anatanevska.pdf) [@anatanevska](https://github.com/anatanevska)
