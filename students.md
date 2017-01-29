@@ -15,7 +15,7 @@
 - [**Elisa Maiettini**](./students-introduction/Arya07.pdf) [@Arya07](https://github.com/Arya07)
 - [**Fabian Paus**](./students-introduction/fabian-paus.pdf) [@fabian-paus](https://github.com/fabian-paus)
 - [**Gian Maria Marconi**](./students-introduction/gmmarconi.pdf) [@gmmarconi](https://github.com/gmmarconi)
-- **Ingo Keller** [@BrutusTT](https://github.com/BrutusTT)
+- [**Ingo Keller**](./students-introduction/BrutusTT.pdf) [@BrutusTT](https://github.com/BrutusTT)
 - [**Jean-Baptiste Weibel**](./students-introduction/jibweb.pdf) [@jibweb](https://github.com/jibweb)
 - [**Joris Guérin**](./students-introduction/jorisguerin.pdf) [@jorisguerin](https://github.com/jorisguerin)
 - **Kyveli Kompatsiari** [@kompky](https://github.com/kompky)
