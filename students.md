@@ -18,7 +18,7 @@
 - [**Ingo Keller**](./students-introduction/BrutusTT.pdf) [@BrutusTT](https://github.com/BrutusTT)
 - [**Jean-Baptiste Weibel**](./students-introduction/jibweb.pdf) [@jibweb](https://github.com/jibweb)
 - [**Joris Guérin**](./students-introduction/jorisguerin.pdf) [@jorisguerin](https://github.com/jorisguerin)
-- **Kyveli Kompatsiari** [@kompky](https://github.com/kompky)
+- [**Kyveli Kompatsiari**](./students-introduction/kompky.pdf) [@kompky](https://github.com/kompky)
 - [**Lawrence Chen Tai Pang**](./students-introduction/LawrenceChen-i2r.pdf) [@LawrenceChen-i2r](https://github.com/LawrenceChen-i2r)
 - [**Lukas Kaul**](./students-introduction/LuSeKa.pdf) [@LuSeKa](https://github.com/LuSeKa)
 - [**Marie Charbonneau**](./students-introduction/pi-q.pdf) [@pi-q](https://github.com/pi-q)
