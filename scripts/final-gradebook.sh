@@ -53,6 +53,6 @@ for (( i=1; i<=${#tot_scores[@]}; i++ )); do
 done
 
 echo "" >> final-gradebook.md
-echo "### [Gradebook](./gradebook.md)" >> final-gradebook.md
+echo "### [List of Gradebooks](./gradebook.md)" >> final-gradebook.md
 echo "" >> final-gradebook.md
 echo "### [Main Page](./README.md)" >> final-gradebook.md

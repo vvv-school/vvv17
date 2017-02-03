@@ -32,6 +32,6 @@
 | [**crbothe**](https://github.com/crbothe) | **25** |
 | [**BrutusTT**](https://github.com/BrutusTT) | **22** |
 
-### [Gradebook](./gradebook.md)
+### [List of Gradebooks](./gradebook.md)
 
 ### [Main Page](./README.md)
