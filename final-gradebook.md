@@ -5,12 +5,12 @@
 | [**fabian-paus**](https://github.com/fabian-paus) | **46** |
 | [**vicentepedro**](https://github.com/vicentepedro) | **41** |
 | [**nolbriker**](https://github.com/nolbriker) | **41** |
+| [**LuSeKa**](https://github.com/LuSeKa) | **41** |
 | [**LawrenceChen-i2r**](https://github.com/LawrenceChen-i2r) | **41** |
 | [**kompky**](https://github.com/kompky) | **41** |
 | [**Arya07**](https://github.com/Arya07) | **41** |
 | [**anatanevska**](https://github.com/anatanevska) | **41** |
 | [**AlexAntn**](https://github.com/AlexAntn) | **41** |
-| [**LuSeKa**](https://github.com/LuSeKa) | **40** |
 | [**damianomal**](https://github.com/damianomal) | **40** |
 | [**pi-q**](https://github.com/pi-q) | **36** |
 | [**NunoDuarte**](https://github.com/NunoDuarte) | **36** |
@@ -29,7 +29,7 @@
 | [**ipa-bfb**](https://github.com/ipa-bfb) | **28** |
 | [**mazzamani**](https://github.com/mazzamani) | **26** |
 | [**Dabuss**](https://github.com/Dabuss) | **26** |
-| [**crbothe**](https://github.com/crbothe) | **25** |
+| [**crbothe**](https://github.com/crbothe) | **26** |
 | [**BrutusTT**](https://github.com/BrutusTT) | **22** |
 
 ### [List of Gradebooks](./gradebook.md)
