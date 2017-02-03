@@ -1,4 +1,4 @@
-| username | score |
+| **students** | **scores** |
 | :---: | :---: |
 | [**vicentepedro**](https://github.com/vicentepedro) | **40** |
 | [**nolbriker**](https://github.com/nolbriker) | **40** |
