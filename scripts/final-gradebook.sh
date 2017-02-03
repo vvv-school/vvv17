@@ -41,7 +41,7 @@ if [ -f final-gradebook.md ]; then
   rm final-gradebook.md
 fi
 
-echo "| **students** | **scores** |" >> final-gradebook.md
+echo "| students | scores |" >> final-gradebook.md
 echo "| :---: | :---: |" >> final-gradebook.md
 for (( i=1; i<=${#tot_scores[@]}; i++ )); do
   line=$(eval "sed '${i}q;d' build/sorted_grades")
