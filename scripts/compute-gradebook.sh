@@ -47,5 +47,5 @@ for (( i=1; i<=${#tot_scores[@]}; i++ )); do
   line=$(eval "sed '${i}q;d' build/sorted_grades")
   username=$(echo "$line" | awk {'print $1'})
   score=$(echo "$line" | awk {'print $2'})
-  echo "| $username | $score |" >> final-gradebook.md
+  echo "| $username | **$score** |" >> final-gradebook.md
 done
