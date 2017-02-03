@@ -2,7 +2,7 @@
 
 | students | scores |
 | :---: | :---: |
-| [**fabian-paus**](https://github.com/fabian-paus) | **41** |
+| [**fabian-paus**](https://github.com/fabian-paus) | **46** |
 | [**Arya07**](https://github.com/Arya07) | **41** |
 | [**anatanevska**](https://github.com/anatanevska) | **41** |
 | [**AlexAntn**](https://github.com/AlexAntn) | **41** |
@@ -26,9 +26,9 @@
 | [**amalaise**](https://github.com/amalaise) | **31** |
 | [**alexarossi**](https://github.com/alexarossi) | **31** |
 | [**EgorLakomkin**](https://github.com/EgorLakomkin) | **29** |
-| [**ipa-bfb**](https://github.com/ipa-bfb) | **27** |
+| [**ipa-bfb**](https://github.com/ipa-bfb) | **28** |
+| [**Dabuss**](https://github.com/Dabuss) | **26** |
 | [**mazzamani**](https://github.com/mazzamani) | **25** |
-| [**Dabuss**](https://github.com/Dabuss) | **25** |
 | [**crbothe**](https://github.com/crbothe) | **25** |
 | [**BrutusTT**](https://github.com/BrutusTT) | **22** |
 
