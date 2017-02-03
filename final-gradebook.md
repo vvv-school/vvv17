@@ -2,18 +2,18 @@
 
 | students | scores |
 | :---: | :---: |
+| [**damianomal**](https://github.com/damianomal) | **46** |
 | [**fabian-paus**](https://github.com/fabian-paus) | **46** |
 | [**AlexAntn**](https://github.com/AlexAntn) | **41** |
 | [**anatanevska**](https://github.com/anatanevska) | **41** |
 | [**Arya07**](https://github.com/Arya07) | **41** |
+| [**Iaxama**](https://github.com/Iaxama) | **41** |
 | [**kompky**](https://github.com/kompky) | **41** |
 | [**LawrenceChen-i2r**](https://github.com/LawrenceChen-i2r) | **41** |
 | [**LuSeKa**](https://github.com/LuSeKa) | **41** |
 | [**nolbriker**](https://github.com/nolbriker) | **41** |
 | [**vicentepedro**](https://github.com/vicentepedro) | **41** |
-| [**damianomal**](https://github.com/damianomal) | **40** |
 | [**bmagyar**](https://github.com/bmagyar) | **36** |
-| [**Iaxama**](https://github.com/Iaxama) | **36** |
 | [**jibweb**](https://github.com/jibweb) | **36** |
 | [**NunoDuarte**](https://github.com/NunoDuarte) | **36** |
 | [**pi-q**](https://github.com/pi-q) | **36** |
