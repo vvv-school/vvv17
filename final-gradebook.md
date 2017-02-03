@@ -2,9 +2,9 @@
 
 | students | scores |
 | :---: | :---: |
+| [**AlexAntn**](https://github.com/AlexAntn) | **46** |
 | [**damianomal**](https://github.com/damianomal) | **46** |
 | [**fabian-paus**](https://github.com/fabian-paus) | **46** |
-| [**AlexAntn**](https://github.com/AlexAntn) | **41** |
 | [**anatanevska**](https://github.com/anatanevska) | **41** |
 | [**Arya07**](https://github.com/Arya07) | **41** |
 | [**bmagyar**](https://github.com/bmagyar) | **41** |
