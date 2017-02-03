@@ -35,7 +35,7 @@ for (( i=0; i<${#tot_scores[@]}; i++ )); do
   echo "${usernames[i]} ${tot_scores[i]}" >> build/unsorted_grades
 done
 
-sort -r -k 2 build/unsorted_grades > build/sorted_grades
+sort -k2,2nr -k1,1 build/unsorted_grades > build/sorted_grades
 
 if [ -f final-gradebook.md ]; then
   rm final-gradebook.md
