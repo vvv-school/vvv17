@@ -41,6 +41,8 @@ if [ -f final-gradebook.md ]; then
   rm final-gradebook.md
 fi
 
+echo "# Students Final Gradebook" >> final-gradebook.md
+echo "" >> final-gradebook.md
 echo "| students | scores |" >> final-gradebook.md
 echo "| :---: | :---: |" >> final-gradebook.md
 for (( i=1; i<=${#tot_scores[@]}; i++ )); do
@@ -49,3 +51,8 @@ for (( i=1; i<=${#tot_scores[@]}; i++ )); do
   score=$(echo "$line" | awk {'print $2'})
   echo "| $username | **$score** |" >> final-gradebook.md
 done
+
+echo "" >> final-gradebook.md
+echo "### [Gradebook](./gradebook.md)" >> final-gradebook.md
+echo "" >> final-gradebook.md
+echo "### [Main Page](./README.md)" >> final-gradebook.md
