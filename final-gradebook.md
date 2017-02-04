@@ -24,8 +24,8 @@
 | [**svestark**](https://github.com/svestark) | **44** |
 | [**towardthesea**](https://github.com/towardthesea) | **44** |
 | [**amalaise**](https://github.com/amalaise) | **42** |
+| [**EgorLakomkin**](https://github.com/EgorLakomkin) | **42** |
 | [**BarisSerhan**](https://github.com/BarisSerhan) | **39** |
-| [**EgorLakomkin**](https://github.com/EgorLakomkin) | **39** |
 | [**ipa-bfb**](https://github.com/ipa-bfb) | **39** |
 | [**crbothe**](https://github.com/crbothe) | **34** |
 | [**BrutusTT**](https://github.com/BrutusTT) | **33** |
