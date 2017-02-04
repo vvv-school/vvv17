@@ -9,11 +9,12 @@ if [ -d build ]; then
 fi
 mkdir build
 
-wget -O build/git.md        https://raw.githubusercontent.com/vvv17-git/vvv17-git.github.io/master/README.md
-wget -O build/yarp.md       https://raw.githubusercontent.com/vvv17-yarp/vvv17-yarp.github.io/master/README.md
-wget -O build/kinematics.md https://raw.githubusercontent.com/vvv17-kinematics/vvv17-kinematics.github.io/master/README.md
-wget -O build/dynamics.md   https://raw.githubusercontent.com/vvv17-dynamics/vvv17-dynamics.github.io/master/README.md
-wget -O build/vision.md     https://raw.githubusercontent.com/vvv17-vision/vvv17-vision.github.io/master/README.md
+wget -O build/git.md          https://raw.githubusercontent.com/vvv17-git/vvv17-git.github.io/master/README.md
+wget -O build/yarp.md         https://raw.githubusercontent.com/vvv17-yarp/vvv17-yarp.github.io/master/README.md
+wget -O build/kinematics.md   https://raw.githubusercontent.com/vvv17-kinematics/vvv17-kinematics.github.io/master/README.md
+wget -O build/dynamics.md     https://raw.githubusercontent.com/vvv17-dynamics/vvv17-dynamics.github.io/master/README.md
+wget -O build/vision.md       https://raw.githubusercontent.com/vvv17-vision/vvv17-vision.github.io/master/README.md
+wget -O build/event-vision.md https://raw.githubusercontent.com/vvv17-event-based-vision/vvv17-event-based-vision.github.io/master/README.md
 
 file_list=$(ls ./build/*.md)
 for entry in $file_list; do  
