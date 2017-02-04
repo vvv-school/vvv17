@@ -4,6 +4,7 @@
 | :---: | :---: |
 | [**AlexAntn**](https://github.com/AlexAntn) | **47** |
 | [**anatanevska**](https://github.com/anatanevska) | **47** |
+| [**Arya07**](https://github.com/Arya07) | **47** |
 | [**bmagyar**](https://github.com/bmagyar) | **47** |
 | [**damianomal**](https://github.com/damianomal) | **47** |
 | [**fabian-paus**](https://github.com/fabian-paus) | **47** |
@@ -15,9 +16,9 @@
 | [**pi-q**](https://github.com/pi-q) | **47** |
 | [**vicentepedro**](https://github.com/vicentepedro) | **47** |
 | [**AlexisBillier**](https://github.com/AlexisBillier) | **42** |
-| [**Arya07**](https://github.com/Arya07) | **42** |
 | [**Iaxama**](https://github.com/Iaxama) | **42** |
 | [**jibweb**](https://github.com/jibweb) | **42** |
+| [**jorisguerin**](https://github.com/jorisguerin) | **42** |
 | [**NunoDuarte**](https://github.com/NunoDuarte) | **42** |
 | [**svestark**](https://github.com/svestark) | **42** |
 | [**towardthesea**](https://github.com/towardthesea) | **42** |
@@ -25,7 +26,6 @@
 | [**amalaise**](https://github.com/amalaise) | **37** |
 | [**BarisSerhan**](https://github.com/BarisSerhan) | **37** |
 | [**EgorLakomkin**](https://github.com/EgorLakomkin) | **37** |
-| [**jorisguerin**](https://github.com/jorisguerin) | **37** |
 | [**ipa-bfb**](https://github.com/ipa-bfb) | **34** |
 | [**crbothe**](https://github.com/crbothe) | **32** |
 | [**Dabuss**](https://github.com/Dabuss) | **32** |
