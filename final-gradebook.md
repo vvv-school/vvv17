@@ -11,13 +11,13 @@
 | [**kompky**](https://github.com/kompky) | **47** |
 | [**LawrenceChen-i2r**](https://github.com/LawrenceChen-i2r) | **47** |
 | [**LuSeKa**](https://github.com/LuSeKa) | **47** |
+| [**nolbriker**](https://github.com/nolbriker) | **47** |
 | [**pi-q**](https://github.com/pi-q) | **47** |
 | [**vicentepedro**](https://github.com/vicentepedro) | **47** |
 | [**AlexisBillier**](https://github.com/AlexisBillier) | **42** |
 | [**Arya07**](https://github.com/Arya07) | **42** |
 | [**Iaxama**](https://github.com/Iaxama) | **42** |
 | [**jibweb**](https://github.com/jibweb) | **42** |
-| [**nolbriker**](https://github.com/nolbriker) | **42** |
 | [**NunoDuarte**](https://github.com/NunoDuarte) | **42** |
 | [**svestark**](https://github.com/svestark) | **42** |
 | [**towardthesea**](https://github.com/towardthesea) | **41** |
