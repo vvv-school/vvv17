@@ -20,7 +20,7 @@
 | [**jibweb**](https://github.com/jibweb) | **42** |
 | [**NunoDuarte**](https://github.com/NunoDuarte) | **42** |
 | [**svestark**](https://github.com/svestark) | **42** |
-| [**towardthesea**](https://github.com/towardthesea) | **41** |
+| [**towardthesea**](https://github.com/towardthesea) | **42** |
 | [**alexarossi**](https://github.com/alexarossi) | **37** |
 | [**amalaise**](https://github.com/amalaise) | **37** |
 | [**BarisSerhan**](https://github.com/BarisSerhan) | **37** |
