@@ -8,6 +8,7 @@
 | [**bmagyar**](https://github.com/bmagyar) | **52** |
 | [**damianomal**](https://github.com/damianomal) | **52** |
 | [**fabian-paus**](https://github.com/fabian-paus) | **52** |
+| [**Iaxama**](https://github.com/Iaxama) | **52** |
 | [**LawrenceChen-i2r**](https://github.com/LawrenceChen-i2r) | **52** |
 | [**LuSeKa**](https://github.com/LuSeKa) | **52** |
 | [**nolbriker**](https://github.com/nolbriker) | **52** |
@@ -15,7 +16,6 @@
 | [**vicentepedro**](https://github.com/vicentepedro) | **52** |
 | [**anatanevska**](https://github.com/anatanevska) | **49** |
 | [**gmmarconi**](https://github.com/gmmarconi) | **49** |
-| [**Iaxama**](https://github.com/Iaxama) | **49** |
 | [**kompky**](https://github.com/kompky) | **49** |
 | [**AlexisBillier**](https://github.com/AlexisBillier) | **47** |
 | [**jibweb**](https://github.com/jibweb) | **47** |
