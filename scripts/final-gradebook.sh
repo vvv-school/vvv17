@@ -4,6 +4,9 @@
 # Authors: Ugo Pattacini <ugo.pattacini@iit.it>
 # CopyPolicy: Released under the terms of the GNU GPL v3.0.
 
+script=$(realpath $0)
+abspathtoscript=$(dirname ${script})
+
 if [ -d build ]; then
   rm -Rf build
 fi
@@ -38,22 +41,23 @@ done
 
 sort -k2,2nr -k1,1 build/unsorted_grades > build/sorted_grades
 
-if [ -f final-gradebook.md ]; then
-  rm final-gradebook.md
+output_file=${abspathtoscript}/../final-gradebook.md
+if [ -f ${output_file} ]; then
+  rm ${output_file}
 fi
 
-echo "# Students Final Gradebook" >> final-gradebook.md
-echo "" >> final-gradebook.md
-echo "| students | scores |" >> final-gradebook.md
-echo "| :---: | :---: |" >> final-gradebook.md
+echo "# Students Final Gradebook" >> ${output_file}
+echo "" >> ${output_file}
+echo "| students | scores |" >> ${output_file}
+echo "| :---: | :---: |" >> ${output_file}
 for (( i=1; i<=${#tot_scores[@]}; i++ )); do
   line=$(eval "sed '${i}q;d' build/sorted_grades")
   username=$(echo "$line" | awk {'print $1'})
   score=$(echo "$line" | awk {'print $2'})
-  echo "| $username | **$score** |" >> final-gradebook.md
+  echo "| $username | **$score** |" >> ${output_file}
 done
 
-echo "" >> final-gradebook.md
-echo "### [List of Gradebooks](./gradebook.md)" >> final-gradebook.md
-echo "" >> final-gradebook.md
-echo "### [Main Page](./README.md)" >> final-gradebook.md
+echo "" >> ${output_file}
+echo "### [List of Gradebooks](./gradebook.md)" >> ${output_file}
+echo "" >> ${output_file}
+echo "### [Main Page](./README.md)" >> ${output_file}
