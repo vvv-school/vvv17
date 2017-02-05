@@ -7,6 +7,6 @@
 - [Gradebook in Robot Vision](https://vvv17-vision.github.io)
 - [Gradebook in Event-based Vision](https://vvv17-event-based-vision.github.io)
 
-### :sparkles: [Final Gradebook](./final-gradebook.md) :tada:
+### :sparkles: [Final Gradebook](./final-gradebook.md) :chart_with_upwards_trend:
 
 ### [Main Page](./README.md)
