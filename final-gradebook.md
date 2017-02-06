@@ -15,22 +15,23 @@
 | [**LuSeKa**](https://github.com/LuSeKa) | **52** |
 | [**nolbriker**](https://github.com/nolbriker) | **52** |
 | [**pi-q**](https://github.com/pi-q) | **52** |
+| [**NunoDuarte**](https://github.com/NunoDuarte) | **50** |
+| [**towardthesea**](https://github.com/towardthesea) | **50** |
 | [**anatanevska**](https://github.com/anatanevska) | **49** |
 | [**kompky**](https://github.com/kompky) | **49** |
 | [**AlexisBillier**](https://github.com/AlexisBillier) | **47** |
 | [**jibweb**](https://github.com/jibweb) | **47** |
 | [**jorisguerin**](https://github.com/jorisguerin) | **47** |
-| [**NunoDuarte**](https://github.com/NunoDuarte) | **47** |
-| [**towardthesea**](https://github.com/towardthesea) | **47** |
 | [**svestark**](https://github.com/svestark) | **44** |
 | [**amalaise**](https://github.com/amalaise) | **42** |
+| [**BrutusTT**](https://github.com/BrutusTT) | **42** |
 | [**EgorLakomkin**](https://github.com/EgorLakomkin) | **42** |
-| [**BrutusTT**](https://github.com/BrutusTT) | **41** |
+| [**ipa-bfb**](https://github.com/ipa-bfb) | **42** |
 | [**BarisSerhan**](https://github.com/BarisSerhan) | **39** |
-| [**ipa-bfb**](https://github.com/ipa-bfb) | **39** |
 | [**crbothe**](https://github.com/crbothe) | **37** |
 | [**Dabuss**](https://github.com/Dabuss) | **33** |
 | [**mazzamani**](https://github.com/mazzamani) | **29** |
+| [**FrancoisFoerster**](https://github.com/FrancoisFoerster) | **0** |
 
 ### [List of Gradebooks](./gradebook.md)
 
