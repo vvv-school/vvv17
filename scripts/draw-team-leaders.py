@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+# Copyright: (C) 2017 iCub Facility - Istituto Italiano di Tecnologia
+# Authors: Damiano Malafronte <https://github.com/damianomal>
+# CopyPolicy: Released under the terms of the GNU GPL v3.0.
+
 import random
 import argparse
 import sys
