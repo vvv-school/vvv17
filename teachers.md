@@ -49,6 +49,7 @@
 | **Raffaello Camoriano** [@Ommac](https://github.com/Ommac)|
 
 **Francesca Odone**
+
 **Lorenzo Rosasco**
 
 ### [Main Page](./README.md)
